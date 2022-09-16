@@ -1,0 +1,100 @@
+[
+    {
+      "userId": "meyve",
+      "id": "fruits",
+      "title": "Alma",
+      "img":"http://127.0.0.1:5501/img/932-9328480_apples-png-image-red-apple-fruit.png",
+      "price":"5m"
+      
+    },
+    {
+      "userId": "meyve",
+      "id": "fruits",
+      "title": "Gavali",
+      "img":"http://127.0.0.1:5501/img/1028.png",
+      "price":"5m"
+
+    },
+    {
+      "userId": "meyve",
+      "id": "fruits",
+      "title": "Armud",
+      "img":"./img/183666_1-20201031-211428.png",
+      "price":"5m"
+
+    
+    },
+    {
+      "userId": "meyve",
+      "id": "fruits",
+      "title": "Gilas",
+      "img":"./img/6807573_preview.png",
+      "price":"5m"
+
+   
+
+    },
+    {
+      "userId": "diger",
+      "id": "others",
+      "title": "Qoz",
+      "img":"./img/NicePng_walnut-png_994140.png",
+      "price":"5m"
+
+ 
+
+    },
+    {
+      "userId": "meyve",
+      "id": "fruits",
+      "title": "Şaftalı",
+      "img":"./img/purepng.com-peachpeachjuicy-fruitnectarinefoodfruitpeachescutted-peaches-17015273518552udi7.png",
+      "price":"5m"
+
+   
+
+
+    },
+    {
+      "userId": "taxil",
+      "id": "grains",
+      "title": "Taxıl",
+      "img":" ./img/NicePng_wheat-png_92445.png",
+      "price":"5m"
+
+
+
+  
+
+    },
+    {
+      "userId": "diger",
+      "id": "others",
+      "title": "Portağal",
+      "img":"./img/Orange-PNG-Image.png ",
+      "price":"5m"
+
+    
+
+    },
+    {
+      "userId": "diger",
+      "id": "others",
+      "title": "Müxtəlif tinglər",
+      "img":"./img/9-99445_growing-plant-png-mart-plant-growing-transparent.png",
+      "price":"5m"
+
+     
+
+    },
+    {
+      "userId": "terevez",
+      "id": "vegetables",
+      "title": "Pomidor",
+      "img":"./img/Tomato-PNG-Free-File.png",
+      "price":"5m"
+
+ 
+
+    }
+]
